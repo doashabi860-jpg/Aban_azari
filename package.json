@@ -1,0 +1,22 @@
+{
+  "name": "trust-wallet-simulator",
+  "version": "1.0.0",
+  "description": "Premium Trust Wallet Simulator with realistic UI and interactions",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.9",
+    "@vitejs/plugin-react": "^4.0.3"
+  }
+}
